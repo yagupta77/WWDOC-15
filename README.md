@@ -1,2 +1,1 @@
-# SimonGame
- 1.Project
+# WWDOC-15
